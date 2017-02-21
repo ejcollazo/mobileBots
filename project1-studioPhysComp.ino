@@ -1,14 +1,13 @@
 #include <Servo.h>
 
 Servo myservo;  // create servo object to control a servo
-// twelve servo objects can be created on most boards
 
 int leftMotor = 10;
 int rightMotor = 9;
 int switchPin = 7;
 
 void setup() {  
-  myservo.attach(11);  // attaches the servo on pin 9 to the servo object              
+  myservo.attach(11);  // attaches the servo on pin 11 to the servo object              
   pinMode(leftMotor, OUTPUT);     
   pinMode(rightMotor, OUTPUT);  
   pinMode(switchPin, INPUT);
