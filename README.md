@@ -1,5 +1,5 @@
 # mobileBots
-![Image of Bot](https://mobileBots.github.com/titleImage.JPG)
+![Image of Bot](https://ejcollazo.github.com/mobileBots/titleImage.JPG)
   
 # Intro
 
