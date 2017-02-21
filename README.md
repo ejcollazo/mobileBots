@@ -1,5 +1,5 @@
 # mobileBots
-  A project in Physical Computing Studio
+![Image of Bot](https://mobileBots.github.com/titleImage.JPG)
   
 # Intro
 
